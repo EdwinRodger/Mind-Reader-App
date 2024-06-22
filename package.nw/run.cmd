@@ -1,0 +1,1 @@
+"C:\Users\Vaidik\Portable Software\nwjs-sdk-v0.88.0-win-x64\nw.exe" "C:\Users\Vaidik\Programming\Javascript\nwjs-app\."
